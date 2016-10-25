@@ -8,4 +8,4 @@ Setps to run:
 
 3. `npm start` - It will start application listing on port 3000
 
-4. To run application - http:localhost:3000
+4. To run application - http://localhost:3000

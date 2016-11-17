@@ -1,4 +1,4 @@
-# angular2-bolierplate
+# angular2-nodejs-bolierplate
 
 Setps to run:
 
